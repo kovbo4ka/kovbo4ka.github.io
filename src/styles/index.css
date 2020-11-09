@@ -4,3 +4,12 @@
     justify-content: center;
     height: 100vh;
 }
+
+footer {
+    height: 130px;
+    background-color: orange;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkmagenta;
+    text-align: left;
+}
